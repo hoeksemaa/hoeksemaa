@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 🤖 I like writing software
+
 🌱 I’m currently a resident engineer @ Fractal Tech
+
 🧠 I'm interesting in building brain-computer interfaces
 
 <!--
